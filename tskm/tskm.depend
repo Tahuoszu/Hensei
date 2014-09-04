@@ -1,0 +1,2230 @@
+# depslib dependency file v1.0
+1399395490 source:c:\users\ng\documents\codeblocks\tskm\src\chord.cpp
+	"Chord.h"
+	"functions.h"
+
+1399387162 c:\users\ng\documents\codeblocks\tskm\hdr\chord.h
+	<iostream>
+	<set>
+	<sstream>
+	<string>
+	"Tone.h"
+
+1399386340 c:\users\ng\documents\codeblocks\tskm\hdr\tone.h
+	<iostream>
+	<sstream>
+	<string>
+
+1399478608 c:\users\ng\documents\codeblocks\tskm\hdr\functions.h
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	"functions.hpp"
+
+1399478682 c:\users\ng\documents\codeblocks\tskm\hdr\functions.hpp
+	"functions.h"
+
+1399478876 source:c:\users\ng\documents\codeblocks\tskm\src\functions.cpp
+	"functions.h"
+
+1399387918 source:c:\users\ng\documents\codeblocks\tskm\src\main.cpp
+	<iostream>
+	"testunity.h"
+
+1399654814 c:\users\ng\documents\codeblocks\tskm\hdr\testunity.h
+	<algorithm>
+	<iostream>
+	"Chord.h"
+	"Event.h"
+	"functions.h"
+	"Interval.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+
+1399721697 c:\users\ng\documents\codeblocks\tskm\hdr\event.h
+	<iostream>
+	<map>
+	<sstream>
+	"Event.hpp"
+
+1399652772 c:\users\ng\documents\codeblocks\tskm\hdr\event.hpp
+	"Event.h"
+
+1399721713 c:\users\ng\documents\codeblocks\tskm\hdr\interval.h
+	<sstream>
+	"Interval.hpp"
+
+1399482976 c:\users\ng\documents\codeblocks\tskm\hdr\interval.hpp
+	"Interval.h"
+
+1399724125 c:\users\ng\documents\codeblocks\tskm\hdr\intervaleventset.h
+	<algorithm>
+	<map>
+	<iostream>
+	<set>
+	<sstream>
+	<vector>
+	"Event.h"
+	"IntervalSet.h"
+	"IntervalEventSet.hpp"
+
+1399721746 c:\users\ng\documents\codeblocks\tskm\hdr\intervalset.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Interval.h"
+	"IntervalSet.hpp"
+
+1399651146 c:\users\ng\documents\codeblocks\tskm\hdr\intervalset.hpp
+	"IntervalSet.h"
+
+1399724442 c:\users\ng\documents\codeblocks\tskm\hdr\intervaleventset.hpp
+	"IntervalEventSet.h"
+
+1399724182 c:\users\ng\documents\codeblocks\tskm\hdr\intervalsequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Element.h"
+	"functions.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.hpp"
+
+1399473510 c:\users\ng\documents\codeblocks\tskm\hdr\element.h
+	<iostream>
+	<map>
+	<sstream>
+	"Element.hpp"
+
+1399473588 c:\users\ng\documents\codeblocks\tskm\hdr\element.hpp
+	"Element.h"
+
+1399724182 c:\users\ng\documents\codeblocks\tskm\hdr\intervalsequence.hpp
+	"IntervalSequence.h"
+
+1399473082 source:c:\users\ng\documents\codeblocks\tskm\src\postprocessing.cpp
+	"postprocessing.h"
+
+1399374212 c:\users\ng\documents\codeblocks\tskm\hdr\postprocessing.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"functions.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+
+1399277434 source:c:\users\ng\documents\codeblocks\tskm\src\preprocessing.cpp
+	"preprocessing.h"
+
+1399277436 c:\users\ng\documents\codeblocks\tskm\hdr\preprocessing.h
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<map>
+	<set>
+	<stack>
+	<vector>
+	"functions.h"
+	"IntervalSet.h"
+
+1399725173 source:c:\users\ng\documents\codeblocks\tskm\src\testunity.cpp
+	"testunity.h"
+
+1399386338 source:c:\users\ng\documents\codeblocks\tskm\src\tone.cpp
+	"functions.h"
+	"Tone.h"
+
+1399391890 source:c:\users\ngk\documents\codeblocks\tskm\src\chord.cpp
+	"Chord.h"
+	"functions.h"
+
+1399383562 c:\users\ngk\documents\codeblocks\tskm\hdr\chord.h
+	<iostream>
+	<set>
+	<sstream>
+	<string>
+	"Tone.h"
+
+1399382740 c:\users\ngk\documents\codeblocks\tskm\hdr\tone.h
+	<iostream>
+	<sstream>
+	<string>
+
+1399475008 c:\users\ngk\documents\codeblocks\tskm\hdr\functions.h
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	"functions.hpp"
+
+1399475082 c:\users\ngk\documents\codeblocks\tskm\hdr\functions.hpp
+	"functions.h"
+
+1399475276 source:c:\users\ngk\documents\codeblocks\tskm\src\functions.cpp
+	"functions.h"
+
+1399384318 source:c:\users\ngk\documents\codeblocks\tskm\src\main.cpp
+	<iostream>
+	"testunity.h"
+
+1399987552 c:\users\ngk\documents\codeblocks\tskm\hdr\testunity.h
+	<algorithm>
+	<iostream>
+	"Chord.h"
+	"Event.h"
+	"functions.h"
+	"Interval.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+
+1399718098 c:\users\ngk\documents\codeblocks\tskm\hdr\event.h
+	<iostream>
+	<map>
+	<sstream>
+	"Event.hpp"
+
+1400056158 c:\users\ngk\documents\codeblocks\tskm\hdr\event.hpp
+	"Event.h"
+
+1399718114 c:\users\ngk\documents\codeblocks\tskm\hdr\interval.h
+	<sstream>
+	"Interval.hpp"
+
+1399996047 c:\users\ngk\documents\codeblocks\tskm\hdr\interval.hpp
+	"Interval.h"
+
+1400072329 c:\users\ngk\documents\codeblocks\tskm\hdr\intervaleventset.h
+	<algorithm>
+	<map>
+	<iostream>
+	<set>
+	<sstream>
+	<vector>
+	"Event.h"
+	"IntervalSet.h"
+	"IntervalEventSet.hpp"
+
+1399994954 c:\users\ngk\documents\codeblocks\tskm\hdr\intervalset.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Interval.h"
+	"IntervalSet.hpp"
+
+1399996101 c:\users\ngk\documents\codeblocks\tskm\hdr\intervalset.hpp
+	"IntervalSet.h"
+
+1400072313 c:\users\ngk\documents\codeblocks\tskm\hdr\intervaleventset.hpp
+	"IntervalEventSet.h"
+
+1400071514 c:\users\ngk\documents\codeblocks\tskm\hdr\intervalsequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Element.h"
+	"functions.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.hpp"
+
+1400056132 c:\users\ngk\documents\codeblocks\tskm\hdr\element.h
+	<iostream>
+	<map>
+	<sstream>
+	"Element.hpp"
+
+1400056605 c:\users\ngk\documents\codeblocks\tskm\hdr\element.hpp
+	"Element.h"
+
+1400085069 c:\users\ngk\documents\codeblocks\tskm\hdr\intervalsequence.hpp
+	"IntervalSequence.h"
+
+1399469482 source:c:\users\ngk\documents\codeblocks\tskm\src\postprocessing.cpp
+	"postprocessing.h"
+
+1399370612 c:\users\ngk\documents\codeblocks\tskm\hdr\postprocessing.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"functions.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+
+1399273834 source:c:\users\ngk\documents\codeblocks\tskm\src\preprocessing.cpp
+	"preprocessing.h"
+
+1399273836 c:\users\ngk\documents\codeblocks\tskm\hdr\preprocessing.h
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<map>
+	<set>
+	<stack>
+	<vector>
+	"functions.h"
+	"IntervalSet.h"
+
+1400084635 source:c:\users\ngk\documents\codeblocks\tskm\src\testunity.cpp
+	"testunity.h"
+
+1399382738 source:c:\users\ngk\documents\codeblocks\tskm\src\tone.cpp
+	"functions.h"
+	"Tone.h"
+
+1401696630 source:c:\users\ngk\documents\codeblocks\tskm\src\chordmining\chord.cpp
+	"Chord.h"
+	"functions.h"
+
+1401696605 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\chord.h
+	<iostream>
+	<set>
+	<sstream>
+	<string>
+	"Tone.h"
+
+1401978029 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\tone.h
+	<iostream>
+	<sstream>
+	<string>
+
+1401113278 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\functions.h
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<map>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	"functions.hpp"
+
+1401113278 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\functions.hpp
+	"functions.h"
+
+1401113274 source:c:\users\ngk\documents\codeblocks\tskm\src\chordmining\functions.cpp
+	"functions.h"
+
+1404425681 source:c:\users\ngk\documents\codeblocks\tskm\src\chordmining\main.cpp
+	<iostream>
+	<climits>
+	<string>
+	"ChordMiner.h"
+	"ChordSymbol.h"
+	"PhraseMiner.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"io.h"
+	"testunity.h"
+
+1401195648 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\testunity.h
+	<algorithm>
+	<iostream>
+	"Chord.h"
+	"Event.h"
+	"functions.h"
+	"Interval.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+	"postprocessing.h"
+	"preprocessing.h"
+
+1403165497 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\event.h
+	<iostream>
+	<map>
+	<sstream>
+	"Event.hpp"
+
+1403261453 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\event.hpp
+	"Event.h"
+
+1401113278 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\interval.h
+	<sstream>
+	"Interval.hpp"
+
+1401720935 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\interval.hpp
+	"Interval.h"
+
+1401789091 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\intervaleventset.h
+	<algorithm>
+	<map>
+	<iostream>
+	<set>
+	<sstream>
+	<vector>
+	"Event.h"
+	"BitSet.h"
+	"functions.h"
+	"IntervalSet.h"
+	"IntervalEventSet.hpp"
+
+1403018785 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\intervalset.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Interval.h"
+	"IntervalSet.hpp"
+
+1403023159 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\intervalset.hpp
+	"IntervalSet.h"
+
+1404394700 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\intervaleventset.hpp
+	"IntervalEventSet.h"
+
+1402650318 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\intervalsequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Element.h"
+	"functions.h"
+	"IntervalEventSet.h"
+	"test.h"
+	"IntervalSequence.hpp"
+
+1401113278 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\element.h
+	<iostream>
+	<map>
+	<sstream>
+	"Element.hpp"
+
+1401113278 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\element.hpp
+	"Element.h"
+
+1404401528 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\intervalsequence.hpp
+	"IntervalSequence.h"
+
+1403194691 source:c:\users\ngk\documents\codeblocks\tskm\src\chordmining\postprocessing.cpp
+	"postprocessing.h"
+
+1401698519 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\postprocessing.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"functions.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+
+1402044985 source:c:\users\ngk\documents\codeblocks\tskm\src\chordmining\preprocessing.cpp
+	"preprocessing.h"
+
+1402044943 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\preprocessing.h
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<map>
+	<set>
+	<stack>
+	<vector>
+	"functions.h"
+	"IntervalSet.h"
+	"preprocessing.hpp"
+
+1401435865 source:c:\users\ngk\documents\codeblocks\tskm\src\chordmining\testunity.cpp
+	"testunity.h"
+
+1403019110 source:c:\users\ngk\documents\codeblocks\tskm\src\chordmining\tone.cpp
+	"functions.h"
+	"Tone.h"
+
+1401113274 source:c:\users\ngk\documents\codeblocks\tskm\src\phrasemining\chordsymbol.cpp
+	"ChordSymbol.h"
+	"functions.h"
+
+1401113278 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\chordsymbol.h
+	<iostream>
+	<string>
+
+1402494950 source:c:\users\ngk\documents\codeblocks\tskm\src\phrasemining\closedsequence.cpp
+	"ClosedSequence.h"
+	"functions.h"
+
+1402494955 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\closedsequence.h
+	<iostream>
+	<iterator>
+	<list>
+	<string>
+	"Chord.h"
+
+1401355998 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\test.h
+	<cstdio>
+	<iostream>
+	<map>
+	<vector>
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"test.hpp"
+
+1401544887 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\test.hpp
+	"test.h"
+
+1400666590 source:c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\chord.h
+	<iostream>
+	<set>
+	<sstream>
+	<string>
+	"Tone.h"
+
+1400744355 source:c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\element.h
+	<iostream>
+	<map>
+	<sstream>
+	"Element.hpp"
+
+1401116874 source:c:\users\ng\documents\codeblocks\tskm\src\chordmining\functions.cpp
+	"functions.h"
+
+1401116878 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\functions.h
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<map>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	"functions.hpp"
+
+1401116878 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\functions.hpp
+	"functions.h"
+
+1405870396 source:c:\users\ng\documents\codeblocks\tskm\src\chordmining\main.cpp
+	<iostream>
+	<climits>
+	<string>
+	"ChordMiner.h"
+	"ChordSymbol.h"
+	"PhraseMiner.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"io.h"
+	"testunity.h"
+
+1401199248 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\testunity.h
+	<algorithm>
+	<iostream>
+	"Chord.h"
+	"Event.h"
+	"functions.h"
+	"Interval.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+	"postprocessing.h"
+	"preprocessing.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\chord.h
+	<iostream>
+	<set>
+	<sstream>
+	<string>
+	"Tone.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\tone.h
+	<iostream>
+	<sstream>
+	<string>
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\event.h
+	<iostream>
+	<map>
+	<sstream>
+	"Event.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\event.hpp
+	"Event.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\interval.h
+	<sstream>
+	"Interval.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\interval.hpp
+	"Interval.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\intervaleventset.h
+	<algorithm>
+	<map>
+	<iostream>
+	<set>
+	<sstream>
+	<vector>
+	"Event.h"
+	"BitSet.h"
+	"functions.h"
+	"IntervalSet.h"
+	"IntervalEventSet.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\intervalset.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Interval.h"
+	"IntervalSet.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\intervalset.hpp
+	"IntervalSet.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\intervaleventset.hpp
+	"IntervalEventSet.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\intervalsequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Element.h"
+	"functions.h"
+	"IntervalEventSet.h"
+	"test.h"
+	"IntervalSequence.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\element.h
+	<iostream>
+	<map>
+	<sstream>
+	"Element.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\element.hpp
+	"Element.h"
+
+1405889204 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\intervalsequence.hpp
+	"IntervalSequence.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\postprocessing.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"functions.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\preprocessing.h
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<map>
+	<set>
+	<stack>
+	<vector>
+	"functions.h"
+	"IntervalSet.h"
+	"preprocessing.hpp"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\chordmining\postprocessing.cpp
+	"postprocessing.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\phrasemining\chordsymbol.cpp
+	"ChordSymbol.h"
+	"functions.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\chordsymbol.h
+	<iostream>
+	<string>
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\phrasemining\closedsequence.cpp
+	"ClosedSequence.h"
+	"functions.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\closedsequence.h
+	<iostream>
+	<iterator>
+	<list>
+	<string>
+	"Chord.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\chordmining\chord.cpp
+	"Chord.h"
+	"functions.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\chordmining\chordminer.cpp
+	"ChordMiner.h"
+	"MinDur_MarginDCI_Closed_Intersection.h"
+	"preprocessing.h"
+	"postprocessing.h"
+	"test.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\chordminer.h
+	<cstdlib>
+	<iostream>
+	<map>
+	<sstream>
+	<vector>
+	"Chord.h"
+	"Graph.h"
+	"io.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"preprocessing.h"
+	"postprocessing.h"
+	"Tone.h"
+
+1401359598 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\test.h
+	<cstdio>
+	<iostream>
+	<map>
+	<vector>
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"test.hpp"
+
+1401548487 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\test.hpp
+	"test.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\chordmining\preprocessing.cpp
+	"preprocessing.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\chordmining\tone.cpp
+	"functions.h"
+	"Tone.h"
+
+1401439465 source:c:\users\ng\documents\codeblocks\tskm\src\chordmining\testunity.cpp
+	"testunity.h"
+
+1404423694 source:c:\users\ngk\documents\codeblocks\tskm\src\chordmining\chordminer.cpp
+	"ChordMiner.h"
+	"MinDur_MarginDCI_Closed_Intersection.h"
+	"preprocessing.h"
+	"postprocessing.h"
+	"test.h"
+
+1403097413 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\chordminer.h
+	<cstdlib>
+	<iostream>
+	<map>
+	<sstream>
+	<vector>
+	"Chord.h"
+	"Graph.h"
+	"io.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"preprocessing.h"
+	"postprocessing.h"
+	"Tone.h"
+
+1405889640 source:c:\users\ng\documents\codeblocks\tskm\src\phrasemining\abstractclosedpseudosequence.cpp
+	"AbstractClosedPseudoSequence.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\abstractclosedpseudosequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"Chord.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\mindur_margindci_closed_intersection.h
+	"AbstractMinDurVerticalClosedItemset.h"
+	"MinDur_MarginDCI_Closed_Intersection.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\abstractmindurverticalcloseditemset.h
+	"AbstractMinDurClosedItemset.h"
+	"AbstractMinDurVerticalClosedItemset.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\abstractmindurcloseditemset.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<numeric>
+	<set>
+	<vector>
+	"functions.h"
+	"IntervalSequence.h"
+	"AbstractMinDurClosedItemset.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\abstractmindurcloseditemset.hpp
+	"AbstractMinDurClosedItemset.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\abstractmindurverticalcloseditemset.hpp
+	"AbstractMinDurVerticalClosedItemset.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\mindur_margindci_closed_intersection.hpp
+	"MinDur_MarginDCI_Closed_Intersection.h"
+
+1402397346 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\mindur_margindci_closed_intersection.h
+	"AbstractMinDurVerticalClosedItemset.h"
+	"MinDur_MarginDCI_Closed_Intersection.hpp"
+
+1403181194 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\abstractmindurverticalcloseditemset.h
+	"AbstractMinDurClosedItemset.h"
+	"AbstractMinDurVerticalClosedItemset.hpp"
+
+1402397678 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\abstractmindurcloseditemset.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<numeric>
+	<set>
+	<vector>
+	"functions.h"
+	"IntervalSequence.h"
+	"AbstractMinDurClosedItemset.hpp"
+
+1403182936 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\abstractmindurcloseditemset.hpp
+	"AbstractMinDurClosedItemset.h"
+
+1404467516 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\abstractmindurverticalcloseditemset.hpp
+	"AbstractMinDurVerticalClosedItemset.h"
+
+1404469008 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\mindur_margindci_closed_intersection.hpp
+	"MinDur_MarginDCI_Closed_Intersection.h"
+
+1402471564 source:c:\users\ngk\documents\codeblocks\tskm\src\phrasemining\abstractclosedpseudosequence.cpp
+	"AbstractClosedPseudoSequence.h"
+
+1402471572 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\abstractclosedpseudosequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"Chord.h"
+
+1404722260 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\chordmining\chord.cpp
+	"Chord.h"
+	"functions.h"
+
+1404722102 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\chord.h
+	<iostream>
+	<set>
+	<sstream>
+	<string>
+	"Tone.h"
+
+1401981629 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\tone.h
+	<iostream>
+	<sstream>
+	<string>
+
+1401116878 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\functions.h
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<map>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	"functions.hpp"
+
+1401116878 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\functions.hpp
+	"functions.h"
+
+1404732622 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\chordmining\chordminer.cpp
+	"ChordMiner.h"
+	"MinDur_MarginDCI_Closed_Intersection.h"
+	"preprocessing.h"
+	"postprocessing.h"
+	"test.h"
+
+1404725805 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\chordminer.h
+	<cstdlib>
+	<iostream>
+	<map>
+	<sstream>
+	<vector>
+	"Chord.h"
+	"Graph.h"
+	"io.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"preprocessing.h"
+	"postprocessing.h"
+	"Tone.h"
+
+1402653918 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\intervalsequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Element.h"
+	"functions.h"
+	"IntervalEventSet.h"
+	"test.h"
+	"IntervalSequence.hpp"
+
+1401116878 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\element.h
+	<iostream>
+	<map>
+	<sstream>
+	"Element.hpp"
+
+1401116878 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\element.hpp
+	"Element.h"
+
+1401792691 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\intervaleventset.h
+	<algorithm>
+	<map>
+	<iostream>
+	<set>
+	<sstream>
+	<vector>
+	"Event.h"
+	"BitSet.h"
+	"functions.h"
+	"IntervalSet.h"
+	"IntervalEventSet.hpp"
+
+1403169097 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\event.h
+	<iostream>
+	<map>
+	<sstream>
+	"Event.hpp"
+
+1404733316 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\event.hpp
+	"Event.h"
+
+1403022385 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\intervalset.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Interval.h"
+	"IntervalSet.hpp"
+
+1401116878 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\interval.h
+	<sstream>
+	"Interval.hpp"
+
+1401724535 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\interval.hpp
+	"Interval.h"
+
+1404732787 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\intervalset.hpp
+	"IntervalSet.h"
+
+1404733095 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\intervaleventset.hpp
+	"IntervalEventSet.h"
+
+1404745709 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\intervalsequence.hpp
+	"IntervalSequence.h"
+
+1402400946 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\mindur_margindci_closed_intersection.h
+	"AbstractMinDurVerticalClosedItemset.h"
+	"MinDur_MarginDCI_Closed_Intersection.hpp"
+
+1403184794 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\abstractmindurverticalcloseditemset.h
+	"AbstractMinDurClosedItemset.h"
+	"AbstractMinDurVerticalClosedItemset.hpp"
+
+1402401278 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\abstractmindurcloseditemset.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<numeric>
+	<set>
+	<vector>
+	"functions.h"
+	"IntervalSequence.h"
+	"AbstractMinDurClosedItemset.hpp"
+
+1404480840 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\abstractmindurcloseditemset.hpp
+	"AbstractMinDurClosedItemset.h"
+
+1404480645 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\abstractmindurverticalcloseditemset.hpp
+	"AbstractMinDurVerticalClosedItemset.h"
+
+1404485032 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\mindur_margindci_closed_intersection.hpp
+	"MinDur_MarginDCI_Closed_Intersection.h"
+
+1402048543 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\preprocessing.h
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<map>
+	<set>
+	<stack>
+	<vector>
+	"functions.h"
+	"IntervalSet.h"
+	"preprocessing.hpp"
+
+1401702119 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\postprocessing.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"functions.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+
+1401359598 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\test.h
+	<cstdio>
+	<iostream>
+	<map>
+	<vector>
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"test.hpp"
+
+1401548487 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\test.hpp
+	"test.h"
+
+1401116874 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\chordmining\functions.cpp
+	"functions.h"
+
+1404743839 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\chordmining\main.cpp
+	<iostream>
+	<climits>
+	<string>
+	"ChordMiner.h"
+	"ChordSymbol.h"
+	"PhraseMiner.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"io.h"
+	"testunity.h"
+
+1401199248 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\testunity.h
+	<algorithm>
+	<iostream>
+	"Chord.h"
+	"Event.h"
+	"functions.h"
+	"Interval.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+	"postprocessing.h"
+	"preprocessing.h"
+
+1404723828 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\chordmining\postprocessing.cpp
+	"postprocessing.h"
+
+1402048585 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\chordmining\preprocessing.cpp
+	"preprocessing.h"
+
+1401439465 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\chordmining\testunity.cpp
+	"testunity.h"
+
+1403022710 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\chordmining\tone.cpp
+	"functions.h"
+	"Tone.h"
+
+1404899835 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\phrasemining\abstractclosedpseudosequence.cpp
+	"AbstractClosedPseudoSequence.h"
+
+1404750273 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\abstractclosedpseudosequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"Chord.h"
+
+1401116874 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\phrasemining\chordsymbol.cpp
+	"ChordSymbol.h"
+	"functions.h"
+
+1401116878 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\chordsymbol.h
+	<iostream>
+	<string>
+
+1402498550 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\phrasemining\closedsequence.cpp
+	"ClosedSequence.h"
+	"functions.h"
+
+1402498555 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\closedsequence.h
+	<iostream>
+	<iterator>
+	<list>
+	<string>
+	"Chord.h"
+
+1402651846 source:c:\users\ngk\documents\codeblocks\tskm\src\phrasemining\mergesequences.cpp
+	"MergeSequences.h"
+
+1402651631 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\mergesequences.h
+	<algorithm>
+	<iterator>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"ClosedSequence.h"
+	"Graph.h"
+	"Node.h"
+
+1401621102 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\node.h
+	<iostream>
+	<sstream>
+	<string>
+	"Chord.h"
+
+1403023960 c:\users\ngk\documents\codeblocks\tskm\hdr\util\functions.h
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<iterator>
+	<list>
+	<map>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	"functions.hpp"
+
+1403099077 c:\users\ngk\documents\codeblocks\tskm\hdr\util\functions.hpp
+	"functions.h"
+
+1402650992 c:\users\ngk\documents\codeblocks\tskm\hdr\util\test.h
+	<algorithm>
+	<cstdio>
+	<iostream>
+	<list>
+	<map>
+	<vector>
+	"test.hpp"
+
+1402650419 c:\users\ngk\documents\codeblocks\tskm\hdr\util\test.hpp
+	"test.h"
+
+1401804617 c:\users\ngk\documents\codeblocks\tskm\hdr\util\testunity.h
+	<algorithm>
+	<iostream>
+	"Chord.h"
+	"Event.h"
+	"functions.h"
+	"Interval.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"postprocessing.h"
+	"preprocessing.h"
+	"Tone.h"
+
+1401696595 source:c:\users\ngk\documents\codeblocks\tskm\src\phrasemining\node.cpp
+	"functions.h"
+	"Node.h"
+
+1404431006 c:\users\ngk\documents\codeblocks\tskm\hdr\util\bitset.h
+	<algorithm>
+	<iostream>
+	<iterator>
+	<sstream>
+	<vector>
+	"functions.h"
+
+1404431071 source:c:\users\ngk\documents\codeblocks\tskm\src\util\bitset.cpp
+	"BitSet.h"
+
+1401113274 source:c:\users\ngk\documents\codeblocks\tskm\src\util\functions.cpp
+	"functions.h"
+
+1402645267 source:c:\users\ngk\documents\codeblocks\tskm\src\util\testunity.cpp
+	"testunity.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\functions.h
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<iterator>
+	<list>
+	<map>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	"functions.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\functions.hpp
+	"functions.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\bitset.h
+	<algorithm>
+	<iostream>
+	<iterator>
+	<sstream>
+	<vector>
+	"functions.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\test.h
+	<algorithm>
+	<cstdio>
+	<iostream>
+	<list>
+	<map>
+	<vector>
+	"test.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\test.hpp
+	"test.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\io.h
+	<cstdio>
+	<fstream>
+	<iostream>
+	<map>
+	<sstream>
+	<string>
+	<vector>
+	"functions.h"
+	"wdirent.h"
+	"wdirent.h"
+	<dirent.h>
+	<stdio.h>
+	<sys/types.h>
+
+1401960666 c:\users\ng\documents\codeblocks\tskm\hdr\util\dirent.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\util\bitset.cpp
+	"BitSet.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\util\functions.cpp
+	"functions.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\util\testunity.cpp
+	"testunity.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\testunity.h
+	<algorithm>
+	<iostream>
+	"Chord.h"
+	"Event.h"
+	"functions.h"
+	"Interval.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"postprocessing.h"
+	"preprocessing.h"
+	"Tone.h"
+
+1404430639 c:\users\ngk\documents\codeblocks\tskm\hdr\util\io.h
+	<cstdio>
+	<fstream>
+	<iostream>
+	<ostream>
+	<map>
+	<string>
+	<vector>
+	"functions.h"
+	"wdirent.h"
+	"wdirent.h"
+	<dirent.h>
+	<stdio.h>
+	<sys/types.h>
+
+1401957066 c:\users\ngk\documents\codeblocks\tskm\hdr\util\dirent.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1404430611 source:c:\users\ngk\documents\codeblocks\tskm\src\util\io.cpp
+	"io.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\phrasemining\mergesequences.cpp
+	"MergeSequences.h"
+
+1401700195 source:c:\users\ng\documents\codeblocks\tskm\src\phrasemining\node.cpp
+	"functions.h"
+	"Node.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\util\io.cpp
+	"io.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\chordmining\preprocessing.hpp
+	"preprocessing.h"
+
+1404392980 c:\users\ngk\documents\codeblocks\tskm\hdr\chordmining\preprocessing.hpp
+	"preprocessing.h"
+
+1402420601 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\phraseminer.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"Chord.h"
+	"ClosedSequence.h"
+	"IntervalSequence.h"
+	"io.h"
+	"MarginDCI_Closed_Intersection.h"
+	"Node.h"
+	"PseudoBide.h"
+	"prepostprocessing.h"
+	"sequenceMerging.h"
+
+1402435046 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\margindci_closed_intersection.h
+	"AbstractVerticalClosedItemset.h"
+	"MarginDCI_Closed_Intersection.hpp"
+
+1402418939 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\abstractverticalcloseditemset.h
+	"AbstractClosedItemset.h"
+	"AbstractVerticalClosedItemset.hpp"
+
+1402498851 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\abstractcloseditemset.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<numeric>
+	<set>
+	<vector>
+	"functions.h"
+	"AbstractClosedItemset.hpp"
+
+1402502106 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\abstractcloseditemset.hpp
+	"AbstractClosedItemset.h"
+
+1402501700 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\abstractverticalcloseditemset.hpp
+	"AbstractVerticalClosedItemset.h"
+
+1402498887 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\margindci_closed_intersection.hpp
+	"MarginDCI_Closed_Intersection.h"
+
+1402473419 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\pseudobide.h
+	"AbstractClosedPseudoSequence.h"
+	"functions.h"
+
+1402500577 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\prepostprocessing.h
+	"Chord.h"
+	"ClosedSequence.h"
+	"IntervalSequence.h"
+	"test.h"
+	"prepostprocessing.hpp"
+
+1402500479 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\prepostprocessing.hpp
+	"prepostprocessing.h"
+
+1402495330 c:\users\ngk\documents\codeblocks\tskm\hdr\phrasemining\sequencemerging.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"BitSet.h"
+	"Chord.h"
+	"ClosedSequence.h"
+	"functions.h"
+	"MergeSequences.h"
+	"Node.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\phraseminer.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"Chord.h"
+	"ClosedSequence.h"
+	"IntervalSequence.h"
+	"io.h"
+	"MarginDCI_Closed_Intersection.h"
+	"Node.h"
+	"PseudoBide.h"
+	"prepostprocessing.h"
+	"sequenceMerging.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\margindci_closed_intersection.h
+	"AbstractVerticalClosedItemset.h"
+	"MarginDCI_Closed_Intersection.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\abstractverticalcloseditemset.h
+	"AbstractClosedItemset.h"
+	"AbstractVerticalClosedItemset.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\abstractcloseditemset.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<numeric>
+	<set>
+	<vector>
+	"functions.h"
+	"AbstractClosedItemset.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\abstractcloseditemset.hpp
+	"AbstractClosedItemset.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\abstractverticalcloseditemset.hpp
+	"AbstractVerticalClosedItemset.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\margindci_closed_intersection.hpp
+	"MarginDCI_Closed_Intersection.h"
+
+1401624702 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\node.h
+	<iostream>
+	<sstream>
+	<string>
+	"Chord.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\pseudobide.h
+	"AbstractClosedPseudoSequence.h"
+	"functions.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\prepostprocessing.h
+	"Chord.h"
+	"ClosedSequence.h"
+	"IntervalSequence.h"
+	"test.h"
+	"prepostprocessing.hpp"
+
+1405889241 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\prepostprocessing.hpp
+	"prepostprocessing.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\sequencemerging.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"BitSet.h"
+	"Chord.h"
+	"ClosedSequence.h"
+	"functions.h"
+	"MergeSequences.h"
+	"Node.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\phrasemining\mergesequences.h
+	<algorithm>
+	<iterator>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"ClosedSequence.h"
+	"Graph.h"
+	"Node.h"
+
+1405889596 source:c:\users\ng\documents\codeblocks\tskm\src\phrasemining\phraseminer.cpp
+	"PhraseMiner.h"
+
+1405892469 source:c:\users\ng\documents\codeblocks\tskm\src\phrasemining\pseudobide.cpp
+	"PseudoBide.h"
+
+1402501553 source:c:\users\ngk\documents\codeblocks\tskm\src\phrasemining\phraseminer.cpp
+	"PhraseMiner.h"
+
+1402473889 source:c:\users\ngk\documents\codeblocks\tskm\src\phrasemining\pseudobide.cpp
+	"PseudoBide.h"
+
+1402496226 source:c:\users\ngk\documents\codeblocks\tskm\src\phrasemining\sequencemerging.cpp
+	"sequenceMerging.h"
+
+1402500531 source:c:\users\ngk\documents\codeblocks\tskm\src\phrasemining\prepostprocessing.cpp
+	"prepostprocessing.h"
+
+1401621102 c:\users\ngk\documents\codeblocks\tskm\hdr\util\node.h
+	<iostream>
+	<sstream>
+	<string>
+	"Chord.h"
+
+1401696595 source:c:\users\ngk\documents\codeblocks\tskm\src\util\node.cpp
+	"functions.h"
+	"Node.h"
+
+1402646220 c:\users\ngk\documents\codeblocks\tskm\hdr\util\graph.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	"Node.h"
+	"Graph.hpp"
+
+1402652634 c:\users\ngk\documents\codeblocks\tskm\hdr\util\graph.hpp
+	"Graph.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\graph.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	"Node.h"
+	"Graph.hpp"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\node.h
+	<iostream>
+	<sstream>
+	<string>
+	"Chord.h"
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\graph.hpp
+	"Graph.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\phrasemining\prepostprocessing.cpp
+	"prepostprocessing.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\phrasemining\sequencemerging.cpp
+	"sequenceMerging.h"
+
+1405588145 source:c:\users\ng\documents\codeblocks\tskm\src\util\node.cpp
+	"functions.h"
+	"Node.h"
+
+1404720553 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\functions.h
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<iterator>
+	<list>
+	<map>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	"functions.hpp"
+
+1404913622 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\functions.hpp
+	"functions.h"
+
+1402649820 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\graph.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	"Node.h"
+	"Graph.hpp"
+
+1401624702 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\node.h
+	<iostream>
+	<sstream>
+	<string>
+	"Chord.h"
+
+1402656234 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\graph.hpp
+	"Graph.h"
+
+1404725352 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\io.h
+	<cstdio>
+	<fstream>
+	<iostream>
+	<map>
+	<sstream>
+	<string>
+	<vector>
+	"functions.h"
+	"wdirent.h"
+	"wdirent.h"
+	<dirent.h>
+	<stdio.h>
+	<sys/types.h>
+
+1401960666 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\dirent.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1404434606 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\bitset.h
+	<algorithm>
+	<iostream>
+	<iterator>
+	<sstream>
+	<vector>
+	"functions.h"
+
+1402654592 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\test.h
+	<algorithm>
+	<cstdio>
+	<iostream>
+	<list>
+	<map>
+	<vector>
+	"test.hpp"
+
+1404841896 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\test.hpp
+	"test.h"
+
+1404396580 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\chordmining\preprocessing.hpp
+	"preprocessing.h"
+
+1402424201 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\phraseminer.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"Chord.h"
+	"ClosedSequence.h"
+	"IntervalSequence.h"
+	"io.h"
+	"MarginDCI_Closed_Intersection.h"
+	"Node.h"
+	"PseudoBide.h"
+	"prepostprocessing.h"
+	"sequenceMerging.h"
+
+1402438646 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\margindci_closed_intersection.h
+	"AbstractVerticalClosedItemset.h"
+	"MarginDCI_Closed_Intersection.hpp"
+
+1402422539 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\abstractverticalcloseditemset.h
+	"AbstractClosedItemset.h"
+	"AbstractVerticalClosedItemset.hpp"
+
+1402502451 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\abstractcloseditemset.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<numeric>
+	<set>
+	<vector>
+	"functions.h"
+	"AbstractClosedItemset.hpp"
+
+1402505706 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\abstractcloseditemset.hpp
+	"AbstractClosedItemset.h"
+
+1402505300 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\abstractverticalcloseditemset.hpp
+	"AbstractVerticalClosedItemset.h"
+
+1402502487 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\margindci_closed_intersection.hpp
+	"MarginDCI_Closed_Intersection.h"
+
+1404747272 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\pseudobide.h
+	"AbstractClosedPseudoSequence.h"
+	"functions.h"
+
+1404750157 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\prepostprocessing.h
+	"Chord.h"
+	"ClosedSequence.h"
+	"IntervalSequence.h"
+	"test.h"
+	"prepostprocessing.hpp"
+
+1404750471 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\prepostprocessing.hpp
+	"prepostprocessing.h"
+
+1402498930 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\sequencemerging.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"BitSet.h"
+	"Chord.h"
+	"ClosedSequence.h"
+	"functions.h"
+	"MergeSequences.h"
+	"Node.h"
+
+1402655231 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\phrasemining\mergesequences.h
+	<algorithm>
+	<iterator>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"ClosedSequence.h"
+	"Graph.h"
+	"Node.h"
+
+1401808217 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\testunity.h
+	<algorithm>
+	<iostream>
+	"Chord.h"
+	"Event.h"
+	"functions.h"
+	"Interval.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"postprocessing.h"
+	"preprocessing.h"
+	"Tone.h"
+
+1402655446 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\phrasemining\mergesequences.cpp
+	"MergeSequences.h"
+
+1404894994 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\phrasemining\phraseminer.cpp
+	"PhraseMiner.h"
+
+1404894816 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\phrasemining\prepostprocessing.cpp
+	"prepostprocessing.h"
+
+1404921739 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\phrasemining\pseudobide.cpp
+	"PseudoBide.h"
+
+1402499826 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\phrasemining\sequencemerging.cpp
+	"sequenceMerging.h"
+
+1404434671 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\util\bitset.cpp
+	"BitSet.h"
+
+1401116874 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\util\functions.cpp
+	"functions.h"
+
+1404743729 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\util\io.cpp
+	"io.h"
+
+1401700195 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\util\node.cpp
+	"functions.h"
+	"Node.h"
+
+1402648867 source:c:\users\ngscs_000\documents\codeblocks\tskm\src\util\testunity.cpp
+	"testunity.h"
+
+1401957066 c:\users\ngk\documents\codeblocks\tskm\hdr\util\wdirent.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1405588145 c:\users\ng\documents\codeblocks\tskm\hdr\util\wdirent.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1401960666 c:\users\ngscs_000\documents\codeblocks\tskm\hdr\util\wdirent.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\chordmining\chord.cpp
+	"Chord.h"
+	"functions.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\chord.h
+	<iostream>
+	<set>
+	<sstream>
+	<string>
+	"Tone.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\tone.h
+	<iostream>
+	<sstream>
+	<string>
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\functions.h
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<iterator>
+	<list>
+	<map>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	"functions.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\functions.hpp
+	"functions.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\chordmining\chordminer.cpp
+	"ChordMiner.h"
+	"MinDur_MarginDCI_Closed_Intersection.h"
+	"preprocessing.h"
+	"postprocessing.h"
+	"test.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\chordminer.h
+	<cstdlib>
+	<iostream>
+	<map>
+	<sstream>
+	<vector>
+	"Chord.h"
+	"Graph.h"
+	"io.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"preprocessing.h"
+	"postprocessing.h"
+	"Tone.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\graph.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	"Node.h"
+	"Graph.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\node.h
+	<iostream>
+	<sstream>
+	<string>
+	"Chord.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\graph.hpp
+	"Graph.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\io.h
+	<cstdio>
+	<fstream>
+	<iostream>
+	<map>
+	<sstream>
+	<string>
+	<vector>
+	"functions.h"
+	"wdirent.h"
+	"wdirent.h"
+	<dirent.h>
+	<stdio.h>
+	<sys/types.h>
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\wdirent.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\intervalsequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Element.h"
+	"functions.h"
+	"IntervalEventSet.h"
+	"test.h"
+	"IntervalSequence.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\element.h
+	<iostream>
+	<map>
+	<sstream>
+	"Element.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\element.hpp
+	"Element.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\intervaleventset.h
+	<algorithm>
+	<map>
+	<iostream>
+	<set>
+	<sstream>
+	<vector>
+	"Event.h"
+	"BitSet.h"
+	"functions.h"
+	"IntervalSet.h"
+	"IntervalEventSet.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\event.h
+	<iostream>
+	<map>
+	<sstream>
+	"Event.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\event.hpp
+	"Event.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\bitset.h
+	<algorithm>
+	<iostream>
+	<iterator>
+	<sstream>
+	<vector>
+	"functions.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\intervalset.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+	"Interval.h"
+	"IntervalSet.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\interval.h
+	<sstream>
+	"Interval.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\interval.hpp
+	"Interval.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\intervalset.hpp
+	"IntervalSet.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\intervaleventset.hpp
+	"IntervalEventSet.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\test.h
+	<algorithm>
+	<cstdio>
+	<iostream>
+	<list>
+	<map>
+	<vector>
+	"test.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\test.hpp
+	"test.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\intervalsequence.hpp
+	"IntervalSequence.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\preprocessing.h
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<map>
+	<set>
+	<stack>
+	<vector>
+	"functions.h"
+	"IntervalSet.h"
+	"preprocessing.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\preprocessing.hpp
+	"preprocessing.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\postprocessing.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"functions.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"Tone.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\mindur_margindci_closed_intersection.h
+	"AbstractMinDurVerticalClosedItemset.h"
+	"MinDur_MarginDCI_Closed_Intersection.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\abstractmindurverticalcloseditemset.h
+	"AbstractMinDurClosedItemset.h"
+	"AbstractMinDurVerticalClosedItemset.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\abstractmindurcloseditemset.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<numeric>
+	<set>
+	<vector>
+	"functions.h"
+	"IntervalSequence.h"
+	"AbstractMinDurClosedItemset.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\abstractmindurcloseditemset.hpp
+	"AbstractMinDurClosedItemset.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\abstractmindurverticalcloseditemset.hpp
+	"AbstractMinDurVerticalClosedItemset.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\chordmining\mindur_margindci_closed_intersection.hpp
+	"MinDur_MarginDCI_Closed_Intersection.h"
+
+1407224728 source:c:\users\ng\documents\codeblocks\code\tskm\src\chordmining\main.cpp
+	<iostream>
+	<climits>
+	<string>
+	"ChordMiner.h"
+	"ChordSymbol.h"
+	"PhraseMiner.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"io.h"
+	"testunity.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\chordsymbol.h
+	<iostream>
+	<string>
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\phraseminer.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"Chord.h"
+	"ClosedSequence.h"
+	"IntervalSequence.h"
+	"io.h"
+	"MarginDCI_Closed_Intersection.h"
+	"Node.h"
+	"PseudoBide.h"
+	"prepostprocessing.h"
+	"sequenceMerging.h"
+
+1407225903 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\closedsequence.h
+	<iostream>
+	<iterator>
+	<list>
+	<string>
+	"Chord.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\margindci_closed_intersection.h
+	"AbstractVerticalClosedItemset.h"
+	"MarginDCI_Closed_Intersection.hpp"
+
+1407236491 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\abstractverticalcloseditemset.h
+	"AbstractClosedItemset.h"
+	"AbstractVerticalClosedItemset.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\abstractcloseditemset.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<numeric>
+	<set>
+	<vector>
+	"functions.h"
+	"AbstractClosedItemset.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\abstractcloseditemset.hpp
+	"AbstractClosedItemset.h"
+
+1407239006 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\abstractverticalcloseditemset.hpp
+	"AbstractVerticalClosedItemset.h"
+
+1407253277 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\margindci_closed_intersection.hpp
+	"MarginDCI_Closed_Intersection.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\pseudobide.h
+	"AbstractClosedPseudoSequence.h"
+	"functions.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\abstractclosedpseudosequence.h
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"Chord.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\prepostprocessing.h
+	"Chord.h"
+	"ClosedSequence.h"
+	"IntervalSequence.h"
+	"test.h"
+	"prepostprocessing.hpp"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\prepostprocessing.hpp
+	"prepostprocessing.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\sequencemerging.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<vector>
+	"BitSet.h"
+	"Chord.h"
+	"ClosedSequence.h"
+	"functions.h"
+	"MergeSequences.h"
+	"Node.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\phrasemining\mergesequences.h
+	<algorithm>
+	<iterator>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	"Chord.h"
+	"ClosedSequence.h"
+	"Graph.h"
+	"Node.h"
+
+1406720937 c:\users\ng\documents\codeblocks\code\tskm\hdr\util\testunity.h
+	<algorithm>
+	<iostream>
+	"Chord.h"
+	"Event.h"
+	"functions.h"
+	"Interval.h"
+	"IntervalEventSet.h"
+	"IntervalSequence.h"
+	"IntervalSet.h"
+	"postprocessing.h"
+	"preprocessing.h"
+	"Tone.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\chordmining\postprocessing.cpp
+	"postprocessing.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\chordmining\preprocessing.cpp
+	"preprocessing.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\chordmining\tone.cpp
+	"functions.h"
+	"Tone.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\phrasemining\abstractclosedpseudosequence.cpp
+	"AbstractClosedPseudoSequence.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\phrasemining\chordsymbol.cpp
+	"ChordSymbol.h"
+	"functions.h"
+
+1407226079 source:c:\users\ng\documents\codeblocks\code\tskm\src\phrasemining\closedsequence.cpp
+	"ClosedSequence.h"
+	"functions.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\phrasemining\mergesequences.cpp
+	"MergeSequences.h"
+
+1407239114 source:c:\users\ng\documents\codeblocks\code\tskm\src\phrasemining\phraseminer.cpp
+	"PhraseMiner.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\phrasemining\prepostprocessing.cpp
+	"prepostprocessing.h"
+
+1407231129 source:c:\users\ng\documents\codeblocks\code\tskm\src\phrasemining\pseudobide.cpp
+	"PseudoBide.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\phrasemining\sequencemerging.cpp
+	"sequenceMerging.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\util\bitset.cpp
+	"BitSet.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\util\functions.cpp
+	"functions.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\util\io.cpp
+	"io.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\util\node.cpp
+	"functions.h"
+	"Node.h"
+
+1406720937 source:c:\users\ng\documents\codeblocks\code\tskm\src\util\testunity.cpp
+	"testunity.h"
+

@@ -1,0 +1,10 @@
+In file included from /Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.cpp:11:
+/Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.h:50: warning: friend declaration 'std::ostream& operator<<(std::ostream&, const Element<S>&)' declares a non-template function
+/Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.h:50: warning: (if this is not what you intended, make sure the function template has already been declared and add <> after the function name here) -Wno-non-template-friend disables this warning
+/Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.cpp:15: error: ISO C++ forbids declaration of 'Element' with no type
+/Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.cpp:15: error: declaration of template 'template<class S> int Element(int, int, int, S, int)'
+/Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.h:26: error: conflicts with previous declaration 'template<class S> class Element'
+/Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.h:26: error: previous non-function declaration 'template<class S> class Element'
+/Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.cpp:15: error: conflicts with function declaration 'template<class S> int Element(int, int, int, S, int)'
+/Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.cpp: In function 'int Element(int, int, int, S, int)':
+/Network/Servers/hebus.ircam.fr/Volumes/Bernardus2-3/Atiam/Atiam-2013/ngkh/Desktop/tskm/src/Element.cpp:15: error: only constructors take base initializers

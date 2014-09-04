@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tskm" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tskm" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="./sipo/other/ ./tmpfiles/" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-Wno-unused-variable" />
+					<Add option="-Wno-unused-function" />
+					<Add directory="hdr/chordMining" />
+					<Add directory="hdr/phraseMining" />
+					<Add directory="hdr/util" />
+				</Compiler>
+				<Linker>
+					<Add directory="hdr/chordMining" />
+					<Add directory="hdr/phraseMining" />
+					<Add directory="hdr/util" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tskm" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="hdr/chordMining/AbstractMinDurClosedItemset.h" />
+		<Unit filename="hdr/chordMining/AbstractMinDurClosedItemset.hpp" />
+		<Unit filename="hdr/chordMining/AbstractMinDurVerticalClosedItemset.h" />
+		<Unit filename="hdr/chordMining/AbstractMinDurVerticalClosedItemset.hpp" />
+		<Unit filename="hdr/chordMining/Chord.h" />
+		<Unit filename="hdr/chordMining/ChordMiner.h" />
+		<Unit filename="hdr/chordMining/Element.h" />
+		<Unit filename="hdr/chordMining/Element.hpp" />
+		<Unit filename="hdr/chordMining/Event.h" />
+		<Unit filename="hdr/chordMining/Event.hpp" />
+		<Unit filename="hdr/chordMining/Interval.h" />
+		<Unit filename="hdr/chordMining/Interval.hpp" />
+		<Unit filename="hdr/chordMining/IntervalEventSet.h" />
+		<Unit filename="hdr/chordMining/IntervalEventSet.hpp" />
+		<Unit filename="hdr/chordMining/IntervalSequence.h" />
+		<Unit filename="hdr/chordMining/IntervalSequence.hpp" />
+		<Unit filename="hdr/chordMining/IntervalSet.h" />
+		<Unit filename="hdr/chordMining/IntervalSet.hpp" />
+		<Unit filename="hdr/chordMining/MinDur_MarginDCI_Closed_Intersection.h" />
+		<Unit filename="hdr/chordMining/MinDur_MarginDCI_Closed_Intersection.hpp" />
+		<Unit filename="hdr/chordMining/MinDur_MarginDCI_Closed_Subsumption.h" />
+		<Unit filename="hdr/chordMining/MinDur_MarginDCI_Closed_Subsumption.hpp" />
+		<Unit filename="hdr/chordMining/Tone.h" />
+		<Unit filename="hdr/chordMining/postprocessing.h" />
+		<Unit filename="hdr/chordMining/preprocessing.h" />
+		<Unit filename="hdr/chordMining/preprocessing.hpp" />
+		<Unit filename="hdr/phraseMining/AbstractClosedItemset.h" />
+		<Unit filename="hdr/phraseMining/AbstractClosedItemset.hpp" />
+		<Unit filename="hdr/phraseMining/AbstractClosedPseudoSequence.h" />
+		<Unit filename="hdr/phraseMining/AbstractVerticalClosedItemset.h" />
+		<Unit filename="hdr/phraseMining/AbstractVerticalClosedItemset.hpp" />
+		<Unit filename="hdr/phraseMining/ChordSymbol.h" />
+		<Unit filename="hdr/phraseMining/ClosedSequence.h" />
+		<Unit filename="hdr/phraseMining/MarginDCI_Closed_Intersection.h" />
+		<Unit filename="hdr/phraseMining/MarginDCI_Closed_Intersection.hpp" />
+		<Unit filename="hdr/phraseMining/MarginDCI_Closed_Subsumption.h" />
+		<Unit filename="hdr/phraseMining/MarginDCI_Closed_Subsumption.hpp" />
+		<Unit filename="hdr/phraseMining/MergeSequences.h" />
+		<Unit filename="hdr/phraseMining/PhraseMiner.h" />
+		<Unit filename="hdr/phraseMining/PseudoBide.h" />
+		<Unit filename="hdr/phraseMining/prepostprocessing.h" />
+		<Unit filename="hdr/phraseMining/prepostprocessing.hpp" />
+		<Unit filename="hdr/phraseMining/sequenceMerging.h" />
+		<Unit filename="hdr/util/BitSet.h" />
+		<Unit filename="hdr/util/Graph.h" />
+		<Unit filename="hdr/util/Graph.hpp" />
+		<Unit filename="hdr/util/Node.h" />
+		<Unit filename="hdr/util/functions.h" />
+		<Unit filename="hdr/util/functions.hpp" />
+		<Unit filename="hdr/util/io.h" />
+		<Unit filename="hdr/util/test.h" />
+		<Unit filename="hdr/util/test.hpp" />
+		<Unit filename="hdr/util/testunity.h" />
+		<Unit filename="hdr/util/wdirent.h" />
+		<Unit filename="src/chordMining/Chord.cpp" />
+		<Unit filename="src/chordMining/ChordMiner.cpp" />
+		<Unit filename="src/chordMining/Tone.cpp" />
+		<Unit filename="src/chordMining/main.cpp" />
+		<Unit filename="src/chordMining/postprocessing.cpp" />
+		<Unit filename="src/chordMining/preprocessing.cpp" />
+		<Unit filename="src/phraseMining/AbstractClosedPseudoSequence.cpp" />
+		<Unit filename="src/phraseMining/ChordSymbol.cpp" />
+		<Unit filename="src/phraseMining/ClosedSequence.cpp" />
+		<Unit filename="src/phraseMining/MergeSequences.cpp" />
+		<Unit filename="src/phraseMining/PhraseMiner.cpp" />
+		<Unit filename="src/phraseMining/PseudoBide.cpp" />
+		<Unit filename="src/phraseMining/prepostprocessing.cpp" />
+		<Unit filename="src/phraseMining/sequenceMerging.cpp" />
+		<Unit filename="src/util/BitSet.cpp" />
+		<Unit filename="src/util/Node.cpp" />
+		<Unit filename="src/util/functions.cpp" />
+		<Unit filename="src/util/io.cpp" />
+		<Unit filename="src/util/testunity.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

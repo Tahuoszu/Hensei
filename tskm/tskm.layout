@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src\phraseMining\PseudoBide.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4131" topLine="127" />
+		</Cursor>
+	</File>
+	<File name="src\chordMining\main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2856" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\AbstractClosedItemset.hpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1102" topLine="52" />
+		</Cursor>
+	</File>
+	<File name="src\chordMining\postprocessing.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3476" topLine="87" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\Event.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1698" topLine="73" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\MinDur_MarginDCI_Closed_Intersection.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="623" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="src\chordMining\preprocessing.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\AbstractVerticalClosedItemset.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="772" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="src\phraseMining\prepostprocessing.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1441" topLine="49" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\MarginDCI_Closed_Intersection.hpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2404" topLine="78" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\IntervalSet.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1291" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="src\phraseMining\PhraseMiner.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4647" topLine="124" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\io.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="558" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="src\util\Node.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="97" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\PhraseMiner.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2750" topLine="81" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\Interval.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="203" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\AbstractClosedPseudoSequence.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="599" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="src\util\functions.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="233" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="src\phraseMining\AbstractClosedPseudoSequence.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2541" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\IntervalEventSet.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\preprocessing.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1630" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\phraseMining\ChordSymbol.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1034" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\IntervalEventSet.hpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5558" topLine="207" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\ChordSymbol.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="904" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\MinDur_MarginDCI_Closed_Intersection.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1677" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="src\util\BitSet.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="173" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\ClosedSequence.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="332" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\IntervalSet.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3751" topLine="161" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\AbstractVerticalClosedItemset.hpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1872" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\PseudoBide.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2383" topLine="75" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\Tone.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="233" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="src\util\io.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2851" topLine="83" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\prepostprocessing.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1231" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\postprocessing.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1083" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="src\phraseMining\ClosedSequence.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1344" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\Graph.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3505" topLine="115" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\preprocessing.hpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="177" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\functions.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2221" topLine="49" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\MergeSequences.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="721" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\wdirent.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4922" topLine="137" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\Node.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="949" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\test.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="521" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\sequenceMerging.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1006" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\test.hpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1090" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\AbstractMinDurClosedItemset.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1434" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\MarginDCI_Closed_Intersection.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="844" topLine="26" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\functions.hpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="691" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\AbstractMinDurVerticalClosedItemset.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="980" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="src\chordMining\Chord.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2507" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\AbstractMinDurVerticalClosedItemset.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2280" topLine="76" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\testunity.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="292" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\Chord.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="286" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="src\chordMining\ChordMiner.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6980" topLine="217" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\Element.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="570" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\ChordMiner.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4339" topLine="170" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\BitSet.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="282" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\Element.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1205" topLine="59" />
+		</Cursor>
+	</File>
+	<File name="src\util\testunity.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="358" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\prepostprocessing.hpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="762" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\AbstractMinDurClosedItemset.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="987" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\IntervalSequence.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1297" topLine="100" />
+		</Cursor>
+	</File>
+	<File name="hdr\util\Graph.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="821" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="src\phraseMining\MergeSequences.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3912" topLine="108" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\IntervalSequence.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12035" topLine="412" />
+		</Cursor>
+	</File>
+	<File name="src\chordMining\Tone.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1115" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="src\phraseMining\sequenceMerging.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1919" topLine="43" />
+		</Cursor>
+	</File>
+	<File name="hdr\chordMining\Event.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="569" topLine="26" />
+		</Cursor>
+	</File>
+	<File name="hdr\phraseMining\AbstractClosedItemset.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2559" topLine="119" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

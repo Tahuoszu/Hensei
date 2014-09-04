@@ -1,0 +1,313 @@
+# depslib dependency file v1.0
+1399829260 source:c:\users\ng\documents\codeblocks\segmentation\approx_entropy.cpp
+	"segmentation.h"
+
+1401199254 ion.h"
+
+1399728554 c:\users\ng\documents\codeblocks\segmentation\matrix.hpp
+	<cstdlib>
+	<iostream>
+	<cassert>
+	<cmath>
+
+1401199254 
+
+1399829826 c:\users\ng\documents\codeblocks\segmentation\segmentation.h
+	<cmath>
+	<iostream>
+	<iterator>
+	<numeric>
+	<vector>
+
+1399828191 source:c:\users\ng\documents\codeblocks\segmentation\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<ctime>
+	<cstdlib>
+	"segmentation.h"
+
+1399834017 source:c:\users\ng\documents\codeblocks\segmentation\simplesegment.cpp
+	<cmath>
+	<iostream>
+	<numeric>
+	<vector>
+	"matrix.hpp"
+	"segmentation.h"
+
+1399825662 source:c:\users\ngk\documents\codeblocks\segmentation\approx_entropy.cpp
+	"segmentation.h"
+
+1399826228 c:\users\ngk\documents\codeblocks\segmentation\segmentation.h
+	<cmath>
+	<iostream>
+	<iterator>
+	<numeric>
+	<vector>
+
+1399824592 source:c:\users\ngk\documents\codeblocks\segmentation\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<ctime>
+	<cstdlib>
+	"segmentation.h"
+
+1399883342 source:c:\users\ngk\documents\codeblocks\segmentation\simplesegment.cpp
+	<cmath>
+	<iostream>
+	<numeric>
+	<vector>
+	"matrix.hpp"
+	"segmentation.h"
+
+1399724956 c:\users\ngk\documents\codeblocks\segmentation\matrix.hpp
+	<cstdlib>
+	<iostream>
+	<cassert>
+	<cmath>
+
+1401195654 source:c:\users\ngk\documents\codeblocks\segmentation\src\approx_entropy.cpp
+	"functions.h"
+	"segmentation.h"
+
+1403715148 c:\users\ngk\documents\codeblocks\segmentation\hdr\functions.h
+	<algorithm>
+	<cfloat>
+	<cmath>
+	<fstream>
+	<iostream>
+	<iterator>
+	<numeric>
+	<string>
+	<vector>
+	"functions.hpp"
+
+1402644163 .hpp"
+
+1403777263 c:\users\ngk\documents\codeblocks\segmentation\hdr\functions.hpp
+	"functions.h"
+
+1402644303 .h"
+
+1403779185 c:\users\ngk\documents\codeblocks\segmentation\hdr\segmentation.h
+	<cmath>
+	<iostream>
+	<numeric>
+	<vector>
+	"functions.h"
+	"resampler.h"
+	"Segment.h"
+
+1401199254 "
+
+1403786723 source:c:\users\ngk\documents\codeblocks\segmentation\src\main.cpp
+	<ctime>
+	<dirent.h>
+	<libgen.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+	"segmentation.h"
+
+1403779402 source:c:\users\ngk\documents\codeblocks\segmentation\src\simplesegment.cpp
+	"segmentation.h"
+
+1400171421 source:c:\users\ngk\documents\codeblocks\segmentation\src\functions.cpp
+	"functions.h"
+
+1401195654 c:\users\ngk\documents\codeblocks\segmentation\hdr\resampler.h
+	<stdexcept>
+	<complex>
+	<vector>
+	<iostream>
+	<cmath>
+
+1403774201 c:\users\ngk\documents\codeblocks\segmentation\hdr\segment.h
+	<vector>
+
+1403713353 source:c:\users\ngk\documents\codeblocks\segmentation\src\multisimplesegment.cpp
+	"functions.h"
+	"segmentation.h"
+
+1403776252 source:c:\users\ngk\documents\codeblocks\segmentation\src\segment.cpp
+	"functions.h"
+	"Segment.h"
+
+1400411144 source:c:\users\ng\documents\codeblocks\segmentation\src\approx_entropy.cpp
+	"functions.h"
+	"segmentation.h"
+
+1400427144 c:\users\ng\documents\codeblocks\segmentation\hdr\functions.h
+	<algorithm>
+	<cfloat>
+	<cmath>
+	<iostream>
+	<iterator>
+	<numeric>
+	<vector>
+	"functions.hpp"
+
+1400421234 c:\users\ng\documents\codeblocks\segmentation\hdr\functions.hpp
+	"functions.h"
+
+1400421223 c:\users\ng\documents\codeblocks\segmentation\hdr\segmentation.h
+	<cmath>
+	<iostream>
+	<numeric>
+	<vector>
+	"Segment.h"
+
+1400427139 c:\users\ng\documents\codeblocks\segmentation\hdr\segment.h
+	<vector>
+
+1400416574 source:c:\users\ng\documents\codeblocks\segmentation\src\main.cpp
+	"functions.h"
+	"segmentation.h"
+
+1400426040 source:c:\users\ng\documents\codeblocks\segmentation\src\multisimplesegment.cpp
+	"functions.h"
+	"segmentation.h"
+
+1400427432 source:c:\users\ng\documents\codeblocks\segmentation\src\segment.cpp
+	"functions.h"
+	"Segment.h"
+
+1400421258 source:c:\users\ng\documents\codeblocks\segmentation\src\simplesegment.cpp
+	"functions.h"
+	"resampler.h"
+	"Segment.h"
+	"segmentation.h"
+
+1287360666 c:\users\ng\documents\codeblocks\segmentation\hdr\resampler.h
+	<stdexcept>
+	<complex>
+	<vector>
+	<iostream>
+	<cmath>
+
+1401199254 source:c:\users\ngscs_000\documents\codeblocks\segmentation\src\approx_entropy.cpp
+	"functions.h"
+	"segmentation.h"
+
+1402644163 c:\users\ngscs_000\documents\codeblocks\segmentation\hdr\functions.h
+	<algorithm>
+	<cfloat>
+	<cmath>
+	<fstream>
+	<iostream>
+	<iterator>
+	<numeric>
+	<string>
+	<vector>
+	"functions.hpp"
+
+1402644303 c:\users\ngscs_000\documents\codeblocks\segmentation\hdr\functions.hpp
+	"functions.h"
+
+1401199254 c:\users\ngscs_000\documents\codeblocks\segmentation\hdr\segmentation.h
+	<cmath>
+	<iostream>
+	<numeric>
+	<vector>
+	"Segment.h"
+
+1401199254 c:\users\ngscs_000\documents\codeblocks\segmentation\hdr\segment.h
+	<vector>
+
+1402644682 source:c:\users\ngscs_000\documents\codeblocks\segmentation\src\main.cpp
+	"functions.h"
+	"segmentation.h"
+	<ctime>
+	<cstdio>
+	<cstring>
+	<sstream>
+
+1401199254 source:c:\users\ngscs_000\documents\codeblocks\segmentation\src\multisimplesegment.cpp
+	"functions.h"
+	"segmentation.h"
+
+1401199254 source:c:\users\ngscs_000\documents\codeblocks\segmentation\src\segment.cpp
+	"functions.h"
+	"Segment.h"
+
+1401199254 source:c:\users\ngscs_000\documents\codeblocks\segmentation\src\simplesegment.cpp
+	"functions.h"
+	"resampler.h"
+	"Segment.h"
+	"segmentation.h"
+
+1401199254 c:\users\ngscs_000\documents\codeblocks\segmentation\hdr\resampler.h
+	<stdexcept>
+	<complex>
+	<vector>
+	<iostream>
+	<cmath>
+
+1401195654 source:/Users/ng/Desktop/Code/segmentation/src/approx_entropy.cpp
+	"functions.h"
+	"segmentation.h"
+
+1404149499 /Users/ng/Desktop/Code/segmentation/hdr/functions.h
+	<algorithm>
+	<cfloat>
+	<cmath>
+	<fstream>
+	<iostream>
+	<iterator>
+	<numeric>
+	<string>
+	<vector>
+	"BasicFIRFilterWebCode.h"
+	"resampler.h"
+	"functions.hpp"
+
+1404034193 /Users/ng/Desktop/Code/segmentation/hdr/BasicFIRFilterWebCode.h
+	<iostream>
+	<iostream>
+
+1403797616 /Users/ng/Desktop/Code/segmentation/hdr/resampler.h
+	<stdexcept>
+	<complex>
+	<vector>
+	<iostream>
+	<cmath>
+
+1404149386 /Users/ng/Desktop/Code/segmentation/hdr/functions.hpp
+	"functions.h"
+
+1404148112 /Users/ng/Desktop/Code/segmentation/hdr/segmentation.h
+	<cmath>
+	<iostream>
+	<numeric>
+	<vector>
+	"functions.h"
+	"Segment.h"
+
+1403774201 /Users/ng/Desktop/Code/segmentation/hdr/Segment.h
+	<vector>
+
+1404204984 source:/Users/ng/Desktop/Code/segmentation/src/main.cpp
+	<dirent.h>
+	<libgen.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<time.h>
+	<unistd.h>
+	"segmentation.h"
+
+1404242382 source:/Users/ng/Desktop/Code/segmentation/src/multiSimpleSegment.cpp
+	"functions.h"
+	"segmentation.h"
+
+1404140918 source:/Users/ng/Desktop/Code/segmentation/src/Segment.cpp
+	"functions.h"
+	"Segment.h"
+
+1404204524 source:/Users/ng/Desktop/Code/segmentation/src/simpleSegment.cpp
+	"segmentation.h"
+

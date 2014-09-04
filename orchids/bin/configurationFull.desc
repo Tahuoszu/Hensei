@@ -1,0 +1,17 @@
+;~~~~~~~~~~~~~~~~~~~descriptors~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+; temporal
+
+; spectral
+SpectralCentroid = ShortTime MeanAndDeviation Delta DeltaDelta Median
+				
+; perceptual
+Loudness = ShortTime MeanAndDeviation Delta DeltaDelta Median 
+
+MFCC = ShortTime MeanAndDeviation Delta DeltaDelta Median
+						
+; harmonic
+FundamentalFrequency = ShortTime MeanAndDeviation Delta DeltaDelta Median
+Noisiness = ShortTime MeanAndDeviation Delta DeltaDelta Median
+Inharmonicity = ShortTime MeanAndDeviation Delta DeltaDelta Median	
+
+; chroma

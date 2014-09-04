@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1406720449 source:c:\users\ng\documents\codeblocks\code\hensei\src\config.cpp
+	"config.h"
+
+1409645606 c:\users\ng\documents\codeblocks\code\hensei\hdr\config.h
+	<algorithm>
+	<cctype>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<map>
+	<set>
+	<string>
+	<vector>
+
+1406720449 source:c:\users\ng\documents\codeblocks\code\hensei\src\ffdesc.cpp
+	"ffdesc.h"
+
+1406720449 c:\users\ng\documents\codeblocks\code\hensei\hdr\ffdesc.h
+	<algorithm>
+	<cmath>
+	<fstream>
+	<iostream>
+	<set>
+	<string>
+	<vector>
+
